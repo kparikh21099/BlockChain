@@ -1,0 +1,906 @@
+Process0
+
+
+C:\Users\Admin\Desktop\BlockChain>echo starting process zero
+starting process zero
+
+C:\Users\Admin\Desktop\BlockChain>REM For grading we will use:
+
+C:\Users\Admin\Desktop\BlockChain>REM for JSON
+
+C:\Users\Admin\Desktop\BlockChain>REM For Mac / unix use :gson not ;gson
+
+C:\Users\Admin\Desktop\BlockChain>javac -cp "gson-2.8.2.jar" Blockchain.java
+
+C:\Users\Admin\Desktop\BlockChain>java -cp ".;gson-2.8.2.jar" Blockchain 0
+----------------------------------------------------------------------------
+Kruti Parikh's blockchain program has started..
+----------------------------------------------------------------------------
+You will encounter a pause of 15secs.
+----------------------------------------------------------------------------
+Employing the inputt file here : BlockInput0.txt
+
+Main server started at: 4600
+Launching Public Keys Server at port: 4710
+Launching the Unverified Block Server input thread using 4820
+Setting in motion the Blockchain Server thread using : 4930
+Launching...
+Public key has been generated now for multicasting MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lOUUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Public key is recieved for Process Id : 0
+Public key is recieved for Process Id : 1
+Public key is recieved for Process Id : 2
+Here is the size of Ledger...: 1
+Creating first block to Ledger - Clone Entry...
+Broadcasting of the verified blocks : f2e937d7-3af1-4145-bd32-677e13974873
+Broadcasting of the verified blocks : f2e937d7-3af1-4145-bd32-677e13974873
+Broadcasting of the verified blocks : f2e937d7-3af1-4145-bd32-677e13974873
+Inserted in the priority blocking queue: 504b2673-5393-41fa-a0e2-d56e716aef44
+
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Inserted in the priority blocking queue: 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+Inserted in the priority blocking queue: be1e3724-e0c5-4bae-914e-8342a5eee697
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 5B4643B8753A8BA5B0E3687465E196E24249ECFA5A4C924D4467BAB5C0FB11E8
+First 16 bits in Hex and Decimal: 5B46 and 23366
+23366 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: IPB0K1WR
+Block added to Blockchain Ledger.
+Verified Blocks count is: 2
+Broadcasting of the verified blocks : 504b2673-5393-41fa-a0e2-d56e716aef44
+Broadcasting of the verified blocks : 504b2673-5393-41fa-a0e2-d56e716aef44
+Broadcasting of the verified blocks : 504b2673-5393-41fa-a0e2-d56e716aef44
+Hash Value of the final BlockData is..... : 978D2B28E60D58DB56D634966BEC801BE49807706BDE0ED0183C6E8E70F87E2C
+First 16 bits in Hex and Decimal: 978D and 38797
+38797 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : B60063262F61D0FB8A12A4C4C02F25A8BC8AA2A2265FC7953A46258987740782
+First 16 bits in Hex and Decimal: B600 and 46592
+46592 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 3
+Hash Value of the final BlockData is..... : CD79C4C24DEEC884F6E03543F9595C8756C2D4E6553F2B23FDC8FAE33140539D
+First 16 bits in Hex and Decimal: CD79 and 52601
+52601 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 3E4671CF196B2283391A1F8CF85B0AE497FD2E693010DF017BE1902D0D8146D7
+First 16 bits in Hex and Decimal: 3E46 and 15942
+15942 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: CHNPYONA
+Block added to Blockchain Ledger.
+Verified Blocks count is: 4
+Broadcasting of the verified blocks : af151023-62d2-4bc4-bcf9-fb0051baebdc
+Broadcasting of the verified blocks : af151023-62d2-4bc4-bcf9-fb0051baebdc
+Broadcasting of the verified blocks : af151023-62d2-4bc4-bcf9-fb0051baebdc
+Hash Value of the final BlockData is..... : AE27686AD66B3059CFD16A24218D2B307EC769B61EB7C9444883DAC943E82E53
+First 16 bits in Hex and Decimal: AE27 and 44583
+44583 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 69264E3317005D0421B55683598BD52BA9EA4A5CAA021542AE6A17C094EA3C1F
+First 16 bits in Hex and Decimal: 6926 and 26918
+26918 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Hash Value of the final BlockData is..... : 8F6624170ABDB397F1ED4736FE19A771FA7242E91D3F85530067F18C029CED74
+First 16 bits in Hex and Decimal: 8F66 and 36710
+36710 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 5
+Hash Value of the final BlockData is..... : 1CC1BC2B8EE562BFA68C54C13F46471ADD7FE53808C13533499977B91F382EFF
+First 16 bits in Hex and Decimal: 1CC1 and 7361
+Reading BlockData from Work Loop
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 2D01DAFEBE1010C605BC6FFB01C296E89785E6907F1003E72F406B119E806065
+First 16 bits in Hex and Decimal: 2D01 and 11521
+11521 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: X26B4EH0
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Block added to Blockchain Ledger.
+Verified Blocks count is: 6
+Broadcasting of the verified blocks : 5c1ace40-c9b6-4244-b645-618abec27d73
+Broadcasting of the verified blocks : 5c1ace40-c9b6-4244-b645-618abec27d73
+Broadcasting of the verified blocks : 5c1ace40-c9b6-4244-b645-618abec27d73
+Hash Value of the final BlockData is..... : BFF4C61652B2BA8CC3837E2192C76676A645D6F38F8CA5E99BFDE8A744A55241
+First 16 bits in Hex and Decimal: BFF4 and 49140
+49140 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : BD70E7D0A7531C6B51C1C059DDC11A8921E99FB2D5CC5FAB148CA4B51706512D
+First 16 bits in Hex and Decimal: BD70 and 48496
+48496 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 7
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Verified block added to blockChain Ledger and count in the Ledger is: 8
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Hash Value of the final BlockData is..... : 560D34BC5FAA2F764C86E4561CCC5AC9466C750F247FDD617D2E2C7F0BF6C7DE
+First 16 bits in Hex and Decimal: 560D and 22029
+Reading BlockData from Work Loop
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 913F3B051876308FEC3D32F76C75CCA36EF78980069F98AC56856E2253CFD523
+First 16 bits in Hex and Decimal: 913F and 37183
+37183 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Hash Value of the final BlockData is..... : 2946D6EEBAA013E0D4ED3BCEAB0AE4BA9B7D905013D690EF382A94DDD12C5349
+First 16 bits in Hex and Decimal: 2946 and 10566
+10566 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: W8ZRGXEG
+Block added to Blockchain Ledger.
+Verified Blocks count is: 9
+Broadcasting of the verified blocks : 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Broadcasting of the verified blocks : 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Broadcasting of the verified blocks : 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Hash Value of the final BlockData is..... : BE9AD35A50BF34A9B207B3A83C002258CB2A8BF0FA85F43BE9A176642EDA5610
+First 16 bits in Hex and Decimal: BE9A and 48794
+48794 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 2B3702B64162AB38F6715AAD8DBDA31044C0657E69F83660E0F92CABB1B4443E
+First 16 bits in Hex and Decimal: 2B37 and 11063
+11063 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: YQ6AKOST
+Block added to Blockchain Ledger.
+Verified Blocks count is: 10
+Broadcasting of the verified blocks : be1e3724-e0c5-4bae-914e-8342a5eee697
+Broadcasting of the verified blocks : be1e3724-e0c5-4bae-914e-8342a5eee697
+Broadcasting of the verified blocks : be1e3724-e0c5-4bae-914e-8342a5eee697
+Hash Value of the final BlockData is..... : CDCB4EA3467777A87DD07B34E239130A7EAE221B45C44B16EFD04BA618AB16D2
+First 16 bits in Hex and Decimal: CDCB and 52683
+52683 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 953B50E8DD85CC2C6F2D52DC8DD97C42146F10937B6FF42444920D37F1C07DD2
+First 16 bits in Hex and Decimal: 953B and 38203
+38203 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Hash Value of the final BlockData is..... : 111009049F8F0918CA21522D974C4329D02176D10C64E1826B24D3673B879A89
+First 16 bits in Hex and Decimal: 1110 and 4368
+4368 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: FP4PTIJ4
+Block added to Blockchain Ledger.
+Verified Blocks count is: 11
+Broadcasting of the verified blocks : 3c7865cf-b160-4e67-bd7b-6948b9803403
+Broadcasting of the verified blocks : 3c7865cf-b160-4e67-bd7b-6948b9803403
+Broadcasting of the verified blocks : 3c7865cf-b160-4e67-bd7b-6948b9803403
+Hash Value of the final BlockData is..... : BE544804F6206E1497BC5E757525C05096ADA4BDA3E685F1D653682E0F188C36
+First 16 bits in Hex and Decimal: BE54 and 48724
+48724 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : AF535BDEC0F00C0178DBDFFFF89FBA0E245972F361EF906B87B20656C08B20AB
+First 16 bits in Hex and Decimal: AF53 and 44883
+44883 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Verified block added to blockChain Ledger and count in the Ledger is: 12
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Hash Value of the final BlockData is..... : BA85F924629EBC90546E6BCF76E917C9F1783B2D8D7D5916E62AEE7E87437EF6
+First 16 bits in Hex and Decimal: BA85 and 47749
+47749 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 7A1AC47A77EBED32AF3237B39CCA789C909BB54E9062527F8BC7C180F1895179
+First 16 bits in Hex and Decimal: 7A1A and 31258
+31258 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 13
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Hash Value of the final BlockData is..... : 4B72ABC8CEF73AEE5DCF0ED33C73636DDAD5CA1F7000CBDCBD28ADD8B1BA2782
+First 16 bits in Hex and Decimal: 4B72 and 19314
+Reading BlockData from Work Loop
+Block is being broadcast: 7cd06990-7673-42f2-921d-9d6c768938f4
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+Block is being broadcast: 7cd06990-7673-42f2-921d-9d6c768938f4
+Block is being broadcast: 7cd06990-7673-42f2-921d-9d6c768938f4
+--------------------------------------------
+Successfully created blockChain Ledger in JSON format.....
+ For proceeding further please enter commands as mentioned below :
+i)      Press 1 for getting the Credits
+ii)     Press 2 for getting entire blockchain verified
+iii)    Press 3 for getting List of records
+---------------------------------------------
+
+
+Please enter command for the process you would further like to proceed :
+1
+Verification Credit received by Processes:
+Credit Score for process0 : 6
+Credit  score for process1 : 1
+Credit score for process2: 5
+
+Please enter command for the process you would further like to proceed :
+2
+The BLOCK ID : 14 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 14 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 13 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 13 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 12 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 12 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 11 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 11 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 10 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 10 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 9 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 9 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 8 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 8 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 7 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 7 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 6 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 6 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 5 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 5 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 4 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 4 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 3 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 3 Yeahh...Successfully verified the signaturee..
+Verification for hash (SHA-256) failed.
+
+Opps...not able to solve hash puzzel
+java.lang.NumberFormatException: Cannot parse null string
+        at java.base/java.lang.Integer.parseInt(Integer.java:630)
+        at java.base/java.lang.Integer.parseInt(Integer.java:784)
+        at BlockchainToDo.blockChainVerified(Blockchain.java:565)
+        at BlockchainToDo.run(Blockchain.java:466)
+        at BlockchainToDo.<init>(Blockchain.java:367)
+        at Blockchain.main(Blockchain.java:95)
+Errors in theledger exists!
+
+
+Please enter command for the process you would further like to proceed :
+3
+Below verified records are present in our BlockChain Ledger (latest first):
+Below are the verified records of Blockchain Ledger (it will display the latest record first) :
+13. 1667362083073.0 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+12. 1667362082898.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees RestFromSports Aspirin
+11. 1667362082789.1 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+10. 1667362082065.0 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+9. 1667362081892.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease DrugTherapy Steroids
+8. 1667362081778.1 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+7. 1667362081043.0 Joe Blow 1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+6. 1667362080880.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+5. 1667362080758.1 Wei Xu 1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+4. 1667362079979.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+3. 1667362079583.2 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+2. 1667362079451.1 Rita Vita 1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+1. 1667362079481.0 Paxton Friedrich 1999.02.10 911-00-911 Tumor Treatment Priscribed
+
+
+Please enter command for the process you would further like to proceed :
+
+
+
+
+
+
+Process1
+
+
+C:\Users\Admin\Desktop\BlockChain>echo starting process one
+starting process one
+
+C:\Users\Admin\Desktop\BlockChain>REM For grading we will use:
+
+C:\Users\Admin\Desktop\BlockChain>REM for JSON
+
+C:\Users\Admin\Desktop\BlockChain>REM For Mac / unix use :gson not ;gson
+
+C:\Users\Admin\Desktop\BlockChain>javac -cp "gson-2.8.2.jar" Blockchain.java
+
+C:\Users\Admin\Desktop\BlockChain>java -cp ".;gson-2.8.2.jar" Blockchain 1
+----------------------------------------------------------------------------
+Kruti Parikh's blockchain program has started..
+----------------------------------------------------------------------------
+You will encounter a pause of 15secs.
+----------------------------------------------------------------------------
+Employing the inputt file here : BlockInput1.txt
+
+Launching Public Keys Server at port: 4711
+Main server started at: 4601
+Launching the Unverified Block Server input thread using 4821
+Setting in motion the Blockchain Server thread using : 4931
+Launching...
+Public key has been generated now for multicasting MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lOUUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Public key is recieved for Process Id : 1
+Public key is recieved for Process Id : 0
+Public key is recieved for Process Id : 2
+Verified block added to blockChain Ledger and count in the Ledger is: 1
+Inserted in the priority blocking queue: 504b2673-5393-41fa-a0e2-d56e716aef44
+
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Inserted in the priority blocking queue: 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+Inserted in the priority blocking queue: be1e3724-e0c5-4bae-914e-8342a5eee697
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : EBC019B5520488EF1AD515ABADDBA8F2CAF887681C46D52CEA0A39FA947AF073
+First 16 bits in Hex and Decimal: EBC0 and 60352
+60352 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 2
+Hash Value of the final BlockData is..... : 9D49FAD1CECE9C9BB38BD40A1EA3F4F88F9B72BFFE0F4BAE0C54B2CCBEEA4107
+First 16 bits in Hex and Decimal: 9D49 and 40265
+40265 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : F49E9047C2722148EA075A2380299D1B977255A906EC7C1DA9FA4AD09F8FC9FC
+First 16 bits in Hex and Decimal: F49E and 62622
+62622 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 3
+Verified block added to blockChain Ledger and count in the Ledger is: 4
+Hash Value of the final BlockData is..... : 127458A368ECCC2D96A9553FE4EBEB4A2AE66E2481FE850610D12282893BE77B
+First 16 bits in Hex and Decimal: 1274 and 4724
+Reading BlockData from Work Loop
+Block is being broadcast: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Block is being broadcast: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Block is being broadcast: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 67C2AD66B4EAD5B22DAAB381411BBDE1BEC166C5F2641DFD1426AA1CCC135CE2
+First 16 bits in Hex and Decimal: 67C2 and 26562
+26562 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Hash Value of the final BlockData is..... : 1143B7D4E02090B8E2714768A2B0C38316124FE61F1006FC3D752503EDE8D1DE
+First 16 bits in Hex and Decimal: 1143 and 4419
+4419 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: YMAI2GZW
+Block added to Blockchain Ledger.
+Verified Blocks count is: 5
+Broadcasting of the verified blocks : 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Broadcasting of the verified blocks : 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Broadcasting of the verified blocks : 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Hash Value of the final BlockData is..... : FB05B3E2491EF935B00BF8F4256BDA6CB4EB6568E5C1383959CF49C212CCA55C
+First 16 bits in Hex and Decimal: FB05 and 64261
+64261 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : F0A99D2BB82780562ED7396A7DD9AFE72B4B6F05A6F594CE9EFE366BB2999F74
+First 16 bits in Hex and Decimal: F0A9 and 61609
+61609 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Verified block added to blockChain Ledger and count in the Ledger is: 6
+Verified block added to blockChain Ledger and count in the Ledger is: 7
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Verified block added to blockChain Ledger and count in the Ledger is: 8
+Hash Value of the final BlockData is..... : 2D2856479A2630BF7664A197AD9C77242514498D17D87A218C0ADAE48A093F02
+First 16 bits in Hex and Decimal: 2D28 and 11560
+Reading BlockData from Work Loop
+Block is being broadcast: 5c1ace40-c9b6-4244-b645-618abec27d73
+Block is being broadcast: 5c1ace40-c9b6-4244-b645-618abec27d73
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Block is being broadcast: 5c1ace40-c9b6-4244-b645-618abec27d73
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 93B4F0D123E2771BC3BCA4C95309A178907AA608C2ADC749E7156D5E76452906
+First 16 bits in Hex and Decimal: 93B4 and 37812
+37812 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Hash Value of the final BlockData is..... : CEA529EE2CF266D71E568C892019DAD226D15818AAEC9C3B57C54D4DBD9E1E21
+First 16 bits in Hex and Decimal: CEA5 and 52901
+52901 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 9
+Verified block added to blockChain Ledger and count in the Ledger is: 10
+Hash Value of the final BlockData is..... : 4046B1A460220C1570486A51E0D9B8F98115FEF2470332DED5563F3ACD444359
+First 16 bits in Hex and Decimal: 4046 and 16454
+Reading BlockData from Work Loop
+Block is being broadcast: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Block is being broadcast: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Block is being broadcast: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : F4D56E0930D7F2C6E146A4E1F5A9E2344F2F1796799FC10E1A71DE495FA81BDD
+First 16 bits in Hex and Decimal: F4D5 and 62677
+62677 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 11
+Hash Value of the final BlockData is..... : 8B9D2A4636FDB937E3DAFF43918D0ED5E3AF472D0021D4D20673749FAAC79AE2
+First 16 bits in Hex and Decimal: 8B9D and 35741
+35741 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : AB0F3D53ACB985496358FC2FE8A5E4932E9384B0E0B5504B9680E81349650035
+First 16 bits in Hex and Decimal: AB0F and 43791
+43791 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Verified block added to blockChain Ledger and count in the Ledger is: 12
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Verified block added to blockChain Ledger and count in the Ledger is: 13
+Hash Value of the final BlockData is..... : 2ED137C02CE088F006442A42F489DE106783EEBC49F73E70054CFC44380081E9
+First 16 bits in Hex and Decimal: 2ED1 and 11985
+Reading BlockData from Work Loop
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+--------------------------------------------
+Successfully created blockChain Ledger in JSON format.....
+ For proceeding further please enter commands as mentioned below :
+i)      Press 1 for getting the Credits
+ii)     Press 2 for getting entire blockchain verified
+iii)    Press 3 for getting List of records
+---------------------------------------------
+
+
+Please enter command for the process you would further like to proceed :
+1
+Verification Credit received by Processes:
+Credit Score for process0 : 6
+Credit  score for process1 : 1
+Credit score for process2: 5
+
+Please enter command for the process you would further like to proceed :
+1
+Verification Credit received by Processes:
+Credit Score for process0 : 6
+Credit  score for process1 : 1
+Credit score for process2: 5
+
+Please enter command for the process you would further like to proceed :
+2
+The BLOCK ID : 14 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 14 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 13 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 13 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 12 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 12 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 11 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 11 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 10 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 10 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 9 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 9 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 8 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 8 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 7 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 7 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 6 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 6 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 5 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 5 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 4 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 4 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 3 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 3 Yeahh...Successfully verified the signaturee..
+Verification for hash (SHA-256) failed.
+
+Opps...not able to solve hash puzzel
+java.lang.NumberFormatException: Cannot parse null string
+        at java.base/java.lang.Integer.parseInt(Integer.java:630)
+        at java.base/java.lang.Integer.parseInt(Integer.java:784)
+        at BlockchainToDo.blockChainVerified(Blockchain.java:565)
+        at BlockchainToDo.run(Blockchain.java:466)
+        at BlockchainToDo.<init>(Blockchain.java:367)
+        at Blockchain.main(Blockchain.java:95)
+Errors in theledger exists!
+
+
+Please enter command for the process you would further like to proceed :
+3
+Below verified records are present in our BlockChain Ledger (latest first):
+Below are the verified records of Blockchain Ledger (it will display the latest record first) :
+13. 1667362083073.0 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+12. 1667362082898.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees RestFromSports Aspirin
+11. 1667362082789.1 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+10. 1667362082065.0 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+9. 1667362081892.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease DrugTherapy Steroids
+8. 1667362081778.1 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+7. 1667362081043.0 Joe Blow 1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+6. 1667362080880.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+5. 1667362080758.1 Wei Xu 1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+4. 1667362079979.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+3. 1667362079583.2 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+2. 1667362079451.1 Rita Vita 1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+1. 1667362079481.0 Paxton Friedrich 1999.02.10 911-00-911 Tumor Treatment Priscribed
+
+
+Please enter command for the process you would further like to proceed :
+
+
+Process2
+
+
+C:\Users\Admin\Desktop\BlockChain>echo starting process two
+starting process two
+
+C:\Users\Admin\Desktop\BlockChain>REM For grading we will use:
+
+C:\Users\Admin\Desktop\BlockChain>REM for JSON
+
+C:\Users\Admin\Desktop\BlockChain>REM For Mac / unix use :gson not ;gson
+
+C:\Users\Admin\Desktop\BlockChain>javac -cp "gson-2.8.2.jar" Blockchain.java
+
+C:\Users\Admin\Desktop\BlockChain>java -cp ".;gson-2.8.2.jar" Blockchain 2
+----------------------------------------------------------------------------
+Kruti Parikh's blockchain program has started..
+----------------------------------------------------------------------------
+You will encounter a pause of 15secs.
+----------------------------------------------------------------------------
+Employing the inputt file here : BlockInput2.txt
+
+Main server started at: 4602
+Setting in motion the Blockchain Server thread using : 4932
+Launching the Unverified Block Server input thread using 4822
+Launching Public Keys Server at port: 4712
+Sending start signn...
+Sending start signn...
+Sending start signn...
+Public key is recieved for Process Id : 1
+Public key is recieved for Process Id : 0
+Launching...
+Public key has been generated now for multicasting MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lOUUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+Public key is recieved for Process Id : 2
+Verified block added to blockChain Ledger and count in the Ledger is: 1
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Inserted in the priority blocking queue: 504b2673-5393-41fa-a0e2-d56e716aef44
+
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Inserted in the priority blocking queue: 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+Inserted in the priority blocking queue: be1e3724-e0c5-4bae-914e-8342a5eee697
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 7EE15A5055B649C01E503C6877471FADF9749BCFB80EC90D5A87EC4A8074BEB9
+First 16 bits in Hex and Decimal: 7EE1 and 32481
+32481 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 2
+Hash Value of the final BlockData is..... : E3B836D58F25DC7DAA5138C3A6103D4F13577CAF6A957182327713C7A5083EB1
+First 16 bits in Hex and Decimal: E3B8 and 58296
+58296 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 2B5E38A21AB07EE49A1EBD190FE722E27505B53BCF83B4078E2463E203AED95E
+First 16 bits in Hex and Decimal: 2B5E and 11102
+11102 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: DKM3OU2W
+Block added to Blockchain Ledger.
+Verified Blocks count is: 3
+Broadcasting of the verified blocks : b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Broadcasting of the verified blocks : b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Broadcasting of the verified blocks : b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+Hash Value of the final BlockData is..... : BD9EDC2344EF924CD43E03B325A2B799E11D4A844195F5AEB77AA188DBF5A8FB
+First 16 bits in Hex and Decimal: BD9E and 48542
+48542 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : DF20E9E3A7B49B22A8D2B7965F6550A92C21671BA5A551AF9A576C3539B8E262
+First 16 bits in Hex and Decimal: DF20 and 57120
+57120 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 4
+Inserted in the priority blocking queue: b9f4d7b8-608a-4cbf-9644-4e811a4a4540
+
+Hash Value of the final BlockData is..... : 22A5ABD722F0348ABE583D1C6A7659AA757A5171F396283DA7D868A7193F363B
+First 16 bits in Hex and Decimal: 22A5 and 8869
+Reading BlockData from Work Loop
+Block is being broadcast: af151023-62d2-4bc4-bcf9-fb0051baebdc
+Block is being broadcast: af151023-62d2-4bc4-bcf9-fb0051baebdc
+Block is being broadcast: af151023-62d2-4bc4-bcf9-fb0051baebdc
+Inserted in the priority blocking queue: af151023-62d2-4bc4-bcf9-fb0051baebdc
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 80E91AE0172B7FACC4F2AC46D4D69F80FC328E2870E2DFBAA269FA40A3BBDE0A
+First 16 bits in Hex and Decimal: 80E9 and 33001
+33001 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 5
+Hash Value of the final BlockData is..... : 03E957541D9C2711627C2435AA0DA52D8C4BD376BDF14E9BFF9CC79E1061253D
+First 16 bits in Hex and Decimal: 03E9 and 1001
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Reading BlockData from Work Loop
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Block is being broadcast: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+Inserted in the priority blocking queue: 62f3f68b-d084-469a-8f1e-4617b0fe9cfb
+
+Block ID Signed
+Verified block added to blockChain Ledger and count in the Ledger is: 6
+Hash Signed
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 4964A1AE72AE38A3D3278632D72D9BEBA306EE3A7F356E76E55786389C2BBAED
+First 16 bits in Hex and Decimal: 4964 and 18788
+18788 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: HW5JJXDL
+Block added to Blockchain Ledger.
+Verified Blocks count is: 7
+Broadcasting of the verified blocks : ba1a2ab7-982b-4945-b0d6-5600598c1220
+Broadcasting of the verified blocks : ba1a2ab7-982b-4945-b0d6-5600598c1220
+Broadcasting of the verified blocks : ba1a2ab7-982b-4945-b0d6-5600598c1220
+Hash Value of the final BlockData is..... : 5BDD87C3C135CF20C0C110145BB4B658ED789A71C788993D8CEC122981D6D2B2
+First 16 bits in Hex and Decimal: 5BDD and 23517
+Reading BlockData from Work Loop
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Block is being broadcast: ba1a2ab7-982b-4945-b0d6-5600598c1220
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 18A3E58F851249748BF8EA5E69737E4D99F7E269D0A84DF3BDE796256C23FF4E
+First 16 bits in Hex and Decimal: 18A3 and 6307
+6307 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: MKEKTXXT
+Block added to Blockchain Ledger.
+Verified Blocks count is: 8
+Broadcasting of the verified blocks : 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+Broadcasting of the verified blocks : 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+Broadcasting of the verified blocks : 97b47aa8-3776-4ada-972a-2f1eed4f6dd5
+Hash Value of the final BlockData is..... : D43352C3AE6B01F4544948DA7C86522CFB547C7A547F8F329964A71870A7A953
+First 16 bits in Hex and Decimal: D433 and 54323
+54323 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : D6BC9B67ECF1ED4AFB2A95679CFFF52B064D773F707FED8DB5A72AED03CF53A3
+First 16 bits in Hex and Decimal: D6BC and 54972
+54972 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: 5c1ace40-c9b6-4244-b645-618abec27d73
+
+Inserted in the priority blocking queue: ba1a2ab7-982b-4945-b0d6-5600598c1220
+
+Hash Value of the final BlockData is..... : C42FA307527F4A9301983F57D40EBF4DB4AA9B2471CD12E4DC3676F3517BBABE
+First 16 bits in Hex and Decimal: C42F and 50223
+50223 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Hash Value of the final BlockData is..... : 71D155C3E80EBBCB30494C15A3D6C22ADF17525D12BD40BC710E0692BEB15D3D
+First 16 bits in Hex and Decimal: 71D1 and 29137
+29137 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 9
+Verified block added to blockChain Ledger and count in the Ledger is: 10
+Inserted in the priority blocking queue: 0ba3bf4d-9617-4a21-9868-2a3e6ef9cae9
+
+Hash Value of the final BlockData is..... : D6FD2278E782B95166D7E578360901F222C2E20A05E5FD40953879FE8F14DAFB
+First 16 bits in Hex and Decimal: D6FD and 55037
+55037 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : BD44DD4D1866A6FD9E50F92882A47DDE8DDA49E8320BC430F6E1A53B25FFF980
+First 16 bits in Hex and Decimal: BD44 and 48452
+48452 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Verified block added to blockChain Ledger and count in the Ledger is: 11
+Hash Value of the final BlockData is..... : 11FD752BAC8B8B7173E058BF13CDAD31DDC31994A3265571C692BC4D8539DA9D
+First 16 bits in Hex and Decimal: 11FD and 4605
+Reading BlockData from Work Loop
+Block is being broadcast: 3c7865cf-b160-4e67-bd7b-6948b9803403
+Block is being broadcast: 3c7865cf-b160-4e67-bd7b-6948b9803403
+Block is being broadcast: 3c7865cf-b160-4e67-bd7b-6948b9803403
+Inserted in the priority blocking queue: 3c7865cf-b160-4e67-bd7b-6948b9803403
+
+Block ID Signed
+Hash Signed
+Hash Value of the final BlockData is..... : 011645BFCE78629321FBAB4BD11CA053216A0459CDA84AD23FC65E89DE5CBF64
+First 16 bits in Hex and Decimal: 0116 and 278
+278 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: OXU46Q1E
+Block added to Blockchain Ledger.
+Verified Blocks count is: 12
+Broadcasting of the verified blocks : bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Broadcasting of the verified blocks : bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Broadcasting of the verified blocks : bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Hash Value of the final BlockData is..... : 1036A72046C53BD368083DF6EBB9DBFA5C5AE17C3B8E347566CDC62B18CE64B6
+First 16 bits in Hex and Decimal: 1036 and 4150
+Reading BlockData from Work Loop
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Block is being broadcast: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+Block ID Signed
+Hash Signed
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Hash Value of the final BlockData is..... : 16B636425487682EEC395FD1ECC0406D8A1A2F5BEF6A877379D1C79163B5DB23
+First 16 bits in Hex and Decimal: 16B6 and 5814
+5814 is less than 25,000. Puzzle Solved!
+Winning Random Seed String: JOYDAD8A
+Block added to Blockchain Ledger.
+Verified Blocks count is: 13
+Broadcasting of the verified blocks : 7cd06990-7673-42f2-921d-9d6c768938f4
+Broadcasting of the verified blocks : 7cd06990-7673-42f2-921d-9d6c768938f4
+Broadcasting of the verified blocks : 7cd06990-7673-42f2-921d-9d6c768938f4
+Hash Value of the final BlockData is..... : 845547FFD7314C0AE256CC404615CB65CEEC5DD3B7322D689BE1D5365D4DCD82
+First 16 bits in Hex and Decimal: 8455 and 33877
+33877 is not lesser than 25,000. Therefore solving the puzzel again...!
+
+Inserted in the priority blocking queue: bc206c41-4cd2-4ce0-b3c3-9f738ed0420d
+
+Inserted in the priority blocking queue: 7cd06990-7673-42f2-921d-9d6c768938f4
+
+--------------------------------------------
+Successfully created blockChain Ledger in JSON format.....
+ For proceeding further please enter commands as mentioned below :
+i)      Press 1 for getting the Credits
+ii)     Press 2 for getting entire blockchain verified
+iii)    Press 3 for getting List of records
+---------------------------------------------
+
+
+Please enter command for the process you would further like to proceed :
+1
+Verification Credit received by Processes:
+Credit Score for process0 : 6
+Credit  score for process1 : 1
+Credit score for process2: 5
+
+Please enter command for the process you would further like to proceed :
+2
+The BLOCK ID : 14 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 14 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 13 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 13 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 12 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 12 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 11 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 11 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 10 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 10 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 9 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 9 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 8 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 8 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 7 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 7 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 6 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 6 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 5 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 5 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 4 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 4 Yeahh...Successfully verified the signaturee..
+The BLOCK ID : 3 Hash (SHA-256) signature verified successfully
+The BLOCK ID : 3 Yeahh...Successfully verified the signaturee..
+Verification for hash (SHA-256) failed.
+
+Opps...not able to solve hash puzzel
+java.lang.NumberFormatException: Cannot parse null string
+        at java.base/java.lang.Integer.parseInt(Integer.java:630)
+        at java.base/java.lang.Integer.parseInt(Integer.java:784)
+        at BlockchainToDo.blockChainVerified(Blockchain.java:565)
+        at BlockchainToDo.run(Blockchain.java:466)
+        at BlockchainToDo.<init>(Blockchain.java:367)
+        at Blockchain.main(Blockchain.java:95)
+Errors in theledger exists!
+
+
+Please enter command for the process you would further like to proceed :
+3
+Below verified records are present in our BlockChain Ledger (latest first):
+Below are the verified records of Blockchain Ledger (it will display the latest record first) :
+13. 1667362083073.0 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+12. 1667362082898.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees RestFromSports Aspirin
+11. 1667362082789.1 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+10. 1667362082065.0 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+9. 1667362081892.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease DrugTherapy Steroids
+8. 1667362081778.1 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+7. 1667362081043.0 Joe Blow 1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+6. 1667362080880.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+5. 1667362080758.1 Wei Xu 1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+4. 1667362079979.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+3. 1667362079583.2 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+2. 1667362079451.1 Rita Vita 1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+1. 1667362079481.0 Paxton Friedrich 1999.02.10 911-00-911 Tumor Treatment Priscribed
+
+
+Please enter command for the process you would further like to proceed :
+
